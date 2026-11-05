@@ -1,0 +1,13 @@
+{
+  "name": "python-project-audit",
+  "displayName": "Python Project Audit & Hardening",
+  "description": "Multi-agent Python codebase auditor and hardening orchestrator with an explicit orchestration contract and subagent delegation.",
+  "version": "1.0.0",
+  "author": "Antigravity",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Use the python-project-audit skill to perform a full audit of this repository",
+    "Audit this Python codebase for security vulnerabilities, correctness bugs, and reliability risks",
+    "Run a python-project-audit on this project and produce a prioritised hardening plan"
+  ]
+}

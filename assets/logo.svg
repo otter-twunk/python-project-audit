@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" fill="none">
+  <!-- Outer Shield -->
+  <path d="M128 24 L208 60 V124 C208 176 172 220 128 236 C84 220 48 176 48 124 V60 Z" 
+        stroke="#4F46E5" stroke-width="12" stroke-linejoin="round" fill="#4F46E5" fill-opacity="0.1"/>
+  <!-- Inner Node / Audit Network -->
+  <circle cx="128" cy="88" r="18" fill="#06B6D4" stroke="#0891B2" stroke-width="6"/>
+  <circle cx="88" cy="156" r="14" fill="#3B82F6" stroke="#2563EB" stroke-width="5"/>
+  <circle cx="168" cy="156" r="14" fill="#10B981" stroke="#059669" stroke-width="5"/>
+  <!-- Connecting Links -->
+  <line x1="128" y1="106" x2="88" y2="142" stroke="#6366F1" stroke-width="6" stroke-linecap="round"/>
+  <line x1="128" y1="106" x2="168" y2="142" stroke="#6366F1" stroke-width="6" stroke-linecap="round"/>
+  <line x1="102" y1="156" x2="154" y2="156" stroke="#6366F1" stroke-width="5" stroke-dasharray="6 4" stroke-linecap="round"/>
+  <!-- Checkmark badge in center bottom -->
+  <circle cx="128" cy="180" r="16" fill="#10B981"/>
+  <path d="M121 180 L126 185 L136 174" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
